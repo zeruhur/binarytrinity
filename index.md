@@ -7,6 +7,7 @@ Describe your character with 3 attributes, toss 3 coins and narrate the results.
 Designed for when you don't have dice and just a few slips of paper in informal situations, such as fillers or for improvised games.
 
 Check out the [itch.io project's page](https://zeruhur.itch.io/binary-trinity) to download the business card layout in PDF.
+
 <iframe frameborder="0" src="https://itch.io/embed/958161" width="552" height="167"><a href="https://zeruhur.itch.io/binary-trinity">Binary Trinity by zeruhur</a></iframe>
 
 Binary Trinity Scenarios:
