@@ -2,7 +2,7 @@
 A pub RPG micro-system
 CC-BY-SA 4.0 by Roberto Bisceglie
 
-## Create a character
+## Characters
 Choose three archetypes, tropes or any description of choice to define your character. Best is an adjective+noun. Each one is a **dictum**.
 Assign each dictum one of the following score: 1,2,3.
 
