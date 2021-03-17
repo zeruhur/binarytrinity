@@ -1,5 +1,3 @@
-## A pub RPG micro-system
-
 Binary Trinity is a micro-RPG designed with immediacy and zero cruch in mind.
 Describe your character with 3 attributes, toss 3 coins and narrate the results.
 
