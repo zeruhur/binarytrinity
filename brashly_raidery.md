@@ -38,3 +38,6 @@ Toss three coins (head = 1, tail = 0). Sum up the results. Check the tables belo
 **1** - A third party is at your heels
 **2** - Your ex lead the other party
 **3** - You actually work for the villain
+
+# Lucky Shot
+Only once during the game each character who fails a significant action can use a lucky shot to turn the situation in his favor, but will have to narrate the reason and effect of this lucky reversal of fate.
