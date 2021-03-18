@@ -20,3 +20,7 @@ Check out the [itch.io project's page](https://zeruhur.itch.io/binary-trinity) t
 * [**Timey Wimey**](/timey_wimey.md)
 
 <iframe frameborder="0" src="https://itch.io/embed/960236" width="552" height="167"><a href="https://zeruhur.itch.io/timey-wimey">Timey Wimey by zeruhur</a></iframe>
+
+* [**Brashly Raidery**](/brashly_raidery.md)
+
+<iframe frameborder="0" src="https://itch.io/embed/962044" width="552" height="167"><a href="https://zeruhur.itch.io/brashly-raidery">Brashly Raidery by zeruhur</a></iframe>
