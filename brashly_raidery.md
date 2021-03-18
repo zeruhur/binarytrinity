@@ -1,4 +1,4 @@
-# Brashly Ridery
+# Brashly Raidery
 A Binary Trinity Scenario
 CC-BY-SA 4.0 By Roberto Bisceglie
 
