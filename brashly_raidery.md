@@ -5,6 +5,8 @@ CC-BY-SA 4.0 By Roberto Bisceglie
 You are a group of raiders in search for fortune and glory, subtracting lost artifacts from the clutches of evil organizations and unfair competitors.
 
 ## Characters
+Toss or choose one of the following characters or make your own.
+
 **0** - Absent-Minded Professor 3, Anti-Hero 2, Flirt Magnet 1
 **1** - Ace Pilot 3, Cynical Mentor 2, Revolver Are Cool 1
 **2** - Playful Hacker 3, Badass Bookworm 2, Omniglot 1
