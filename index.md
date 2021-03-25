@@ -24,3 +24,7 @@ Check out the [itch.io project's page](https://zeruhur.itch.io/binary-trinity) t
 * [**Brashly Raidery**](/brashly_raidery.md)
 
 <iframe frameborder="0" src="https://itch.io/embed/962044" width="552" height="167"><a href="https://zeruhur.itch.io/brashly-raidery">Brashly Raidery by zeruhur</a></iframe>
+
+* [**Eldritchy Insanity**](/eldritchy_insanity.md)
+
+<iframe frameborder="0" src="https://itch.io/embed/970720" width="552" height="167"><a href="https://zeruhur.itch.io/eldritchy-insanity">Eldritchy Insanity by zeruhur</a></iframe>
