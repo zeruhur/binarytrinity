@@ -12,19 +12,19 @@ Check out the [itch.io project's page](https://zeruhur.itch.io/binary-trinity) t
 
 ## Binary Trinity Scenarios
 
-* [**Spacey Smuggly**](/spacey_smuggly.md) 
+* [Spacey Smuggly](/spacey_smuggly.md) 
 
 <iframe frameborder="0" src="https://itch.io/embed/959460" width="552" height="167"><a href="https://zeruhur.itch.io/spacey-smuggly">Spacey Smuggly by zeruhur</a></iframe>
 
 
-* [**Timey Wimey**](/timey_wimey.md)
+* [Timey Wimey](/timey_wimey.md)
 
 <iframe frameborder="0" src="https://itch.io/embed/960236" width="552" height="167"><a href="https://zeruhur.itch.io/timey-wimey">Timey Wimey by zeruhur</a></iframe>
 
-* [**Brashly Raidery**](/brashly_raidery.md)
+* [Brashly Raidery](/brashly_raidery.md)
 
 <iframe frameborder="0" src="https://itch.io/embed/962044" width="552" height="167"><a href="https://zeruhur.itch.io/brashly-raidery">Brashly Raidery by zeruhur</a></iframe>
 
-* [**Eldritchy Insanity**](/eldritchy_insanity.md)
+* [Eldritchy Insanity](/eldritchy_insanity.md)
 
 <iframe frameborder="0" src="https://itch.io/embed/970720" width="552" height="167"><a href="https://zeruhur.itch.io/eldritchy-insanity">Eldritchy Insanity by zeruhur</a></iframe>
